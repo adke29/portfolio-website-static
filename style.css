@@ -1,0 +1,74 @@
+/* navbar */
+.navbar-nav a{
+    margin: 8px 13px;
+}
+
+/* header */
+header img{
+    height: 20em;
+}
+
+header h1{
+    font-size: 6rem;
+}
+
+header p{
+    font-size: 2rem;
+    margin-bottom: 3rem;
+}
+
+/* skills */
+.skills{
+    background-color: #141414;
+}
+.skills h1{
+    text-align: center;
+    color:white;
+}
+
+.skills .fa{
+    font-size: 100px;
+    margin: 20px
+}
+
+.skills .card{
+    height:95%
+}
+
+/* projects */
+.projects img{
+    width: 200px; 
+    height: 250px;
+}
+
+/* events */
+.events{
+    background-color: #ECF0F1;
+}
+
+
+/* contact-me */
+.contact-me i{
+    font-size:95px;
+}
+
+.contact-me .col-lg-4{
+    margin: 75px 0;
+}
+.contact-me p{
+    margin-top:1rem;
+}
+
+
+
+/* certificates */
+.certificates{
+    background-color: white;
+}
+
+/* footer */
+footer i{
+    color: #141414;
+    font-size:30px;
+    margin: auto 15px;
+}
