@@ -1,6 +1,7 @@
 /* navbar */
 .navbar-nav a{
     margin: 8px 13px;
+    line-height: 50px;
 }
 
 /* header */
